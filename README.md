@@ -11,3 +11,12 @@ The OSDP protocol can be used by everybody free of charge and can be implemented
 This repository contains the specifications related to a certain version of the protocol.
 
 Please refer to the [wiki](https://github.com/NeoP5/osdp-specs/wiki) for the specifications.
+
+## Implementations
+The following list contains links to available implementations of the OSDP protocol.
+
+| Platform  | Project | Link | 
+| ------------- | ------------- | ------------- |
+| Arduino  | osdp-arduino  | (https://github.com/NeoP5/osdp-arduino) |
+| ESP8266 (Arduino)  | osdp-esp8266-arduino  | (https://github.com/NeoP5/osdp-esp8266-arduino) |
+| Java | osdp-java | (https://github.com/NeoP5/osdp-java) |
