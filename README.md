@@ -9,4 +9,5 @@ Research showed that there was no suitable protocol available for public use on 
 The OSDP protocol can be used by everybody free of charge and can be implemented in nearly any device that can communicate over TCP/IP and/or UDP. OSDP is designed to be as generic and simple as possible.
 
 This repository contains the specifications related to a certain version of the protocol.
+
 Please refer to the [wiki](https://github.com/NeoP5/osdp/wiki) for the specifications.
