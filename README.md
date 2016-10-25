@@ -10,4 +10,4 @@ The OSDP protocol can be used by everybody free of charge and can be implemented
 
 This repository contains the specifications related to a certain version of the protocol.
 
-Please refer to the [wiki](https://github.com/NeoP5/osdp/wiki) for the specifications.
+Please refer to the [wiki](https://github.com/NeoP5/osdp-specs/wiki) for the specifications.
